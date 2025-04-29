@@ -1,0 +1,103 @@
+# Copyright (C) 2025  Altera Corporation. All rights reserved.
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and any partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, the Altera Quartus Prime License Agreement,
+# the Altera IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Altera and sold by Altera or its authorized distributors.  Please
+# refer to the Altera Software License Subscription Agreements 
+# on the Quartus Prime software download page.
+
+# Quartus Prime Version 24.1std.0 Build 1077 03/04/2025 SC Standard Edition
+# File: D:\Documents\ape fpga\SonicSurface\Firmware\FPGA primary\QuadrupleBuffer_assignments.csv
+# Generated on: Mon Apr 28 22:21:37 2025
+
+Status,From,To,Assignment Name,Value,Enabled,Entity,Comment,Tag
+Ok,,3.3V,Location,H_RIGHT_2,Yes,,,
+Ok,,SHIFT_CLOCK_2,Location,PIN_71,Yes,,,
+Ok,,SHIFT_CLOCK_2,Location,PIN_38,Yes,,,
+Ok,,SHIFT_CLOCK_2,Location,PIN_39,Yes,,,
+Ok,,SHIFT_CLOCK_2,Location,PIN_42,Yes,,,
+Ok,,SHIFT_CLOCK_2,Location,PIN_43,Yes,,,
+Ok,,SHIFT_CLOCK_2,Location,PIN_68,Yes,,,
+Ok,,SHIFT_CLOCK_2,Location,PIN_69,Yes,,,
+Ok,,SHIFT_CLOCK_2,Location,PIN_70,Yes,,,
+Ok,,SHIFT_CLOCK_1,Location,PIN_104,Yes,,,
+Ok,,SHIFT_CLOCK_1,Location,PIN_105,Yes,,,
+Ok,,SHIFT_CLOCK_1,Location,PIN_106,Yes,,,
+Ok,,SHIFT_CLOCK_1,Location,PIN_129,Yes,,,
+Ok,,SHIFT_CLOCK_1,Location,PIN_132,Yes,,,
+Ok,,SHIFT_CLOCK_1,Location,PIN_133,Yes,,,
+Missing Value,,SHIFT_CLOCK_1,Location,,Yes,,,
+Ok,,RESET,Location,PIN_49,Yes,,,
+Ok,,MISC_F,Location,PIN_115,Yes,,,
+Ok,,MISC_E,Location,PIN_124,Yes,,,
+Ok,,MISC_D,Location,PIN_120,Yes,,,
+Ok,,MISC_C,Location,PIN_67,Yes,,,
+Ok,,MISC_B,Location,PIN_60,Yes,,,
+Ok,,MISC_A,Location,PIN_65,Yes,,,
+Ok,,LED[3],Location,PIN_11,Yes,,,
+Ok,,LED[2],Location,PIN_10,Yes,,,
+Ok,,LED[1],Location,PIN_7,Yes,,,
+Ok,,LED[0],Location,PIN_3,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_84,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_51,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_52,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_53,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_54,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_55,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_58,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_59,Yes,,,
+Ok,,LATCH_CLOCK_2,Location,PIN_60,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_30,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_135,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_136,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_137,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_138,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_99,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_100,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_101,Yes,,,
+Ok,,LATCH_CLOCK_1,Location,PIN_103,Yes,,,
+Ok,,GND,Location,H_RIGHT_23,Yes,,,
+Ok,,EPCS_SDO,Location,PIN_6,Yes,,,
+Ok,,EPCS_SCE,Location,PIN_8,Yes,,,
+Ok,,EPCS_DATA0,Location,PIN_13,Yes,,,
+Ok,,EPCS_CLK,Location,PIN_12,Yes,,,
+Ok,,DATA[30],Location,PIN_124,Yes,,,
+Ok,,DATA[29],Location,PIN_121,Yes,,,
+Ok,,DATA[28],Location,PIN_120,Yes,,,
+Ok,,DATA[27],Location,PIN_119,Yes,,,
+Ok,,DATA[26],Location,PIN_113,Yes,,,
+Ok,,DATA[25],Location,PIN_112,Yes,,,
+Ok,,DATA[24],Location,PIN_111,Yes,,,
+Ok,,DATA[23],Location,PIN_110,Yes,,,
+Ok,,DATA[22],Location,PIN_74,Yes,,,
+Ok,,DATA[21],Location,PIN_75,Yes,,,
+Ok,,DATA[20],Location,PIN_76,Yes,,,
+Ok,,DATA[19],Location,PIN_77,Yes,,,
+Ok,,DATA[18],Location,PIN_80,Yes,,,
+Ok,,DATA[17],Location,PIN_83,Yes,,,
+Ok,,DATA[16],Location,PIN_84,Yes,,,
+Ok,,DATA[15],Location,PIN_69,Yes,,,
+Ok,,DATA[14],Location,PIN_68,Yes,,,
+Ok,,DATA[13],Location,PIN_70,Yes,,,
+Ok,,DATA[12],Location,PIN_71,Yes,,,
+Ok,,DATA[11],Location,PIN_38,Yes,,,
+Ok,,DATA[10],Location,PIN_39,Yes,,,
+Ok,,DATA[9],Location,PIN_42,Yes,,,
+Ok,,DATA[8],Location,PIN_43,Yes,,,
+Ok,,DATA[7],Location,PIN_85,Yes,,,
+Ok,,DATA[6],Location,PIN_98,Yes,,,
+Ok,,DATA[5],Location,PIN_86,Yes,,,
+Ok,,DATA[4],Location,PIN_87,Yes,,,
+Ok,,DATA[3],Location,PIN_143,Yes,,,
+Ok,,DATA[2],Location,PIN_144,Yes,,,
+Ok,,DATA[1],Location,PIN_142,Yes,,,
+Ok,,DATA[0],Location,PIN_141,Yes,,,
+Ok,,CLK,Location,PIN_23,Yes,,,
+,<<new>>,<<new>>,<<new>>,,,,,
